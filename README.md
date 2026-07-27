@@ -152,7 +152,7 @@ Python • Flask • MySQL • OpenAI
 <img src="https://img.shields.io/badge/LinkedIn-Gowtham_Bhaskaran-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw">
+<a href="gowtham.bhaskaran.contact@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 

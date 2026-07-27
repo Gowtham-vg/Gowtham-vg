@@ -16,11 +16,11 @@
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/gowtham-b-developer">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="gowtham.bhaskaran.contact@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -52,11 +52,14 @@
 
 <img src="https://skillicons.dev/icons?i=python,flask,mysql"/>
 
-<br><br>
+<br><br></p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
 
 <br><br>
+</p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
